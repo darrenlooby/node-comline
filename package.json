@@ -1,0 +1,26 @@
+{
+  "name": "node-comline",
+  "version": "0.0.1",
+  "description": "Simple command-line parser",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/darrenlooby/node-comline.git",
+  "bugs": {
+    "url": "https://github.com/darrenlooby/node-comline/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darrenlooby/node-comline.git"
+  },
+  "engines": {
+    "node": ">=0.1.90"
+  },
+  "keywords": [
+    "Command-line",
+    "node"
+  ],
+  "author": "Darren Looby",
+  "license": "Creative Commons Attribution-ShareAlike 3.0 Unported"
+}
