@@ -3,7 +3,7 @@ node-opt
 
 Parse command-line into your NodeJS applications.
 
-# node-comline - is a small command-line parser for your NodeJS applicaiotn.
+# node-comline - is a small command-line parser for your NodeJS application.
 
 ## Installation
 
